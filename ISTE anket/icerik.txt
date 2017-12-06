@@ -1,0 +1,6 @@
+Cinsiyetiniz nedir?;Bay;Bayan
+İskenderun Teknik Üniversitesi sosyal olanaklarından memnun musunuz?;Çok Memnunum;Memnunum;İdare Eder;Yetersiz
+İskenderun Teknik Üniversitesi eğitim olanaklarından memnun musunuz?;Çok Memnunum;Memnunum;İdare Eder;Yetersiz
+İskenderun Teknik Üniversitesi'nin geleceğini nasıl görüyorsunuz?;Gelecek vadediyor;Yerinde Sayar;Geriye Gider
+İskenderun Teknik Üniversitesi'nin tanıtım faaliyetlerini nasıl buluyorsunuz?;İyi seviyede;Yeterli;İdare Eder;Tanıtım mı yapıyorsunuz
+İskenderun Teknik Üniversitesi'ni yakınlarınıza önerir misiniz?;Kesinlikle Evet;Belki;Kesinlikle Hayır

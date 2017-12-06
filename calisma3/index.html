@@ -1,0 +1,51 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Anasayfa</title>
+	</head>
+	
+	<body>
+		<form action="mailto:irem.kocak_ato@hotmail.com "  method="post">
+	<table border="1">
+		<tr>
+		<td colspan="2" class="baslık">Form Bilgiler</td>
+		</tr>
+		<tr>
+		<td class="td1">Ad Soyad: </td>
+		<td class="td2"><input type="text" name="isim" value=""></td>
+		</tr>
+		<tr>
+		<td class="td1">Doğum Yeri: </td>
+		<td class="td2"><input type="text" name="dyeri" value="İl giriniz"></td>
+		</tr>
+		<tr>
+		<td class="td1">Yaşınız:</td>
+		<td class="td2"><input type="number" name="yas" min="17" max="65">
+		</tr>
+		<tr>
+		<td class="td1">Cinsiyet:</td>
+		<td class="td2"><input class="radio" type="radio" value="Bay" name="cinsiyet">Bay <input class="radio" type="radio" value="Bayan" name="cinsiyet">Bayan</td> 
+		</tr>
+		<tr>
+		<td class="td1">Telefon:</td>
+		<td class="td2"><input type="tel" name="usrtel">
+		</tr>
+		<tr>
+		<td class="td1">Egitim Durumu: </td>
+		<td class="td2">
+		<select name="eğitim">
+			<option value="0">Seçiniz</option>
+			<option value="Lisans">Lisans</option>
+			<option value="YL">Y.Lisans</option>
+			<option value="doktora">Doktora</option>
+			<option value="e.yok">Eğitim Yok</option>
+		</select>
+		</td>
+		</tr>
+		<tr>
+		<td class="td1"><button type="submit">Gönder</button></td>
+		<td class="td2"><button type="clear">Temizle</button></td>
+		</tr>
+	</table>
+	</body>
+</html>
